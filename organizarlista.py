@@ -7,7 +7,7 @@ for j in range(tamanho):
     tabela.append(valor)
 
 
-print("Lista informada: {tabela}")
+print(f"Lista informada: {tabela}")
 
 
 mudar = True
